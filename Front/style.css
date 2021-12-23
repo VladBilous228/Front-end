@@ -1,0 +1,34 @@
+body{
+  font-family: 'Rubik', sans-serif;
+  
+}
+.navbar-brand{
+  padding-left: 1cm;
+}
+
+.btn-primary{
+  background-color: #F53838;
+  margin-top: 50px;
+  border: 0;
+}
+
+.btn-primary:hover{
+  background-color: black;
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: #4F5665;
+}
+a:hover{
+  color:red;
+}
+.collapse{
+ padding-left: 40%;  
+ /* margin-left: 40%;
+*/
+
+}
+
